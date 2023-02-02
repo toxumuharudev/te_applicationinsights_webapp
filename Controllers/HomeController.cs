@@ -41,7 +41,7 @@ public class HomeController : Controller
     public ActionResult Like(string button)
     {
         this.aiClient.TrackEvent("LikeClicked");
-        ViewBag.Message = "Thank you for your response";
+        ViewBag.Message = "Thank you for your response, check the event name of LikeClicked on Azure Portal";
         return View("Index");
     }
 }
