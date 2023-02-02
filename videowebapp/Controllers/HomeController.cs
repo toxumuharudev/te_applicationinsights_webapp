@@ -14,12 +14,12 @@ public class HomeController : Controller
         this.aiClient = aiClient;
     }
 
-    private readonly ILogger<HomeController> _logger;
+    // private readonly ILogger<HomeController>? _logger;
 
-    public HomeController(ILogger<HomeController> logger)
-    {
-        _logger = logger;
-    }
+    // public HomeController(ILogger<HomeController> logger)
+    // {
+    //     _logger = logger;
+    // }
 
     public IActionResult Index()
     {

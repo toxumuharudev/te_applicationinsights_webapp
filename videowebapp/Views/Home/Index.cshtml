@@ -7,10 +7,19 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
-<div>
+<div class="text-center">
     @using (Html.BeginForm("Like", "Home"))
     {
         <input type="submit" value="Like" />
         <div>@ViewBag.Message</div>
     }
+</div>
+
+<div class="text-center">
+    <br>
+    See here - <a
+        href="https://learn.microsoft.com/en-us/training/modules/instrument-web-app-code-with-application-insights/5-instrument-the-application">https://learn.microsoft.com/en-us/training/modules/instrument-web-app-code-with-application-insights/5-instrument-the-application</a>
+    <br>
+    Source code - <a
+        href="https://github.com/toxumuharudev/te_applicationinsights_webapp">https://github.com/toxumuharudev/te_applicationinsights_webapp</a>
 </div>
