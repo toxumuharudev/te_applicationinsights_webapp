@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj": {}
+  },
+  "projects": {
+    "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj",
+        "projectName": "videowebapp",
+        "projectPath": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj",
+        "packagesPath": "/Users/tokawata/.nuget/packages/",
+        "outputPath": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tokawata/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.21.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
