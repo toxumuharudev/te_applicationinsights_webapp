@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj": {}
+    "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp.csproj": {}
   },
   "projects": {
-    "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj": {
+    "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj",
+        "projectUniqueName": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp.csproj",
         "projectName": "videowebapp",
-        "projectPath": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/videowebapp.csproj",
+        "projectPath": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp.csproj",
         "packagesPath": "/Users/tokawata/.nuget/packages/",
-        "outputPath": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/videowebapp/obj/",
+        "outputPath": "/Users/tokawata/Library/CloudStorage/OneDrive-Microsoft/Development/019_te_applicationinsights_webapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tokawata/.nuget/NuGet/NuGet.Config"
